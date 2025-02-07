@@ -84,3 +84,4 @@ C:\Users\siposz\Gitwork\usercrud\usercrud\obj\Debug\usercrud.csproj.CoreCompileI
 C:\Users\siposz\Gitwork\usercrud\usercrud\obj\Debug\usercrud.csproj.Up2Date
 C:\Users\siposz\Gitwork\usercrud\usercrud\obj\Debug\usercrud.exe
 C:\Users\siposz\Gitwork\usercrud\usercrud\obj\Debug\usercrud.pdb
+C:\Users\siposz\Gitwork\usercrud\usercrud\obj\Debug\usercrud.Form2.resources
